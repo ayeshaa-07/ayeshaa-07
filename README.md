@@ -44,22 +44,9 @@ Feel free to reach out to me through the following platforms:
 - **LinkedIn**: [Ayesha Sajjad](https://www.linkedin.com/in/ayeshasajjad04)  
 - **GitHub**: [ayeshaa-07](https://github.com/ayeshaa-07)  
 
----
 
-### **GitHub Stats**  
-![Ayesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayeshaa-07&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)  
-
----
 
 **Let's connect and create something amazing!**  
-
----
-
-### **Visuals and Design Elements**:
-- **Badges & Icons**: I’ve used shields and icons to make key information (links, stats) stand out.  
-- **GitHub Stats**: The dynamic GitHub stats card shows your GitHub activity and contributions, helping potential collaborators or employers gauge your programming skills and contributions.
-- **Project Cards**: Projects are visually appealing with clickable links to GitHub repositories for further exploration.
-- **LinkedIn & GitHub Badges**: These badges make it easy for visitors to directly connect with you via your social profiles.
 
 ---
 
